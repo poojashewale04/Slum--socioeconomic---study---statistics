@@ -1,2 +1,2 @@
-# Slum--socioeconomic---study---statistics
-Statistical analysis of socio-economic conditions in Nashik slums using survey data. Methods used include Chi-Square, ANOVA, Kruskal-Wallis, and Mann-Whitney U. Tools: R, Excel. Focused on SDGs like poverty, health, education, and sanitation.
+# Slum-socioeconomic-study-statistics
+A statistical research project analyzing the socio-economic conditions of slum areas in Nashik, Maharashtra. The study covers key aspects of poverty, education, healthcare, sanitation, and housing aligned with selected Sustainable Development Goals (SDGs). Data was collected from 200 households across five different slum areas and analyzed using tools like Chi-Square test, ANOVA, Kruskal-Wallis test, Mann-Whitney U test, and Run test. Visualizations and statistical computations were performed using R, MS Excel, and MS Word.
